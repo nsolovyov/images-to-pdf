@@ -1,0 +1,13 @@
+{
+  "name": "images-to-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "images-to-pdf": "^1.0.3",
+    "is-image": "^3.0.0"
+  }
+}
