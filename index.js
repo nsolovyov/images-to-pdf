@@ -16,6 +16,7 @@ const outputDir = 'pdf/';
   } catch (error) {
     console.error('Conversation failed');
     console.error(error);
+    process.exit(1);
   }
 })();
 
